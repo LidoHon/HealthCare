@@ -28,9 +28,10 @@ export default function Home() {
         </div>
       </section>
       <Image
-        src="/assets/images/onbording.jpeg"
+        src="/assets/images/onboarding-img.png"
         height={1000}
         width={1000}
+        priority
         alt="onbording image"
         className="side-img max-w-[50%]"
       />
