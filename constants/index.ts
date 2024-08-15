@@ -42,40 +42,40 @@ export const IdentificationTypes = [
 
 export const Doctors = [
   {
-    image: "/assets/images/dr-green.png",
+    image: "/assets/images/aby.jpeg",
     name: "Abyalew Tesafe",
   },
   {
-    image: "/assets/images/dr-cameron.png",
+    image: "/assets/images/sara.jpeg",
     name: "Sara Getacherw",
   },
   {
-    image: "/assets/images/dr-livingston.png",
+    image: "/assets/images/joel.jpeg",
     name: "Eyuel Nigusse",
   },
   {
-    image: "/assets/images/dr-peter.png",
+    image: "/assets/images/henok.jpeg",
     name: "Henok Muhammed",
   },
   {
-    image: "/assets/images/dr-powell.png",
+    image: "/assets/images/j.jpeg",
     name: "Eyerusalem Nigusse",
   },
   {
-    image: "/assets/images/dr-remirez.png",
+    image: "/assets/images/ftsa.jpeg",
     name: "Fitsum Demeke",
   },
   {
-    image: "/assets/images/dr-lee.png",
-    name: "Yabsera Gudeta",
+    image: "/assets/images/asni.jpeg",
+    name: "Asni Getu",
   },
   {
-    image: "/assets/images/dr-cruz.png",
+    image: "/assets/images/menal.jpeg",
     name: "Menal Ali",
   },
   {
-    image: "/assets/images/dr-sharma.png",
-    name: "Muluken Ayenew",
+    image: "/assets/images/bitu.jpeg",
+    name: "Bitanya Honelign",
   },
 ];
 
