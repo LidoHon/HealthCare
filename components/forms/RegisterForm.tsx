@@ -201,8 +201,8 @@ const RegisterForm = ({ user }: { user: User }) => {
           control={form.control}
           fieldType={FormFieldType.SELECT}
           name="primaryPhyisician"
-          label="primary Phyisician "
-          placeholder="select a phyisician"
+          label="primary Physician "
+          placeholder="select a physician"
         >
           {Doctors.map((doctor, i) => (
             <SelectItem key={doctor.name + i} value={doctor.name}>
