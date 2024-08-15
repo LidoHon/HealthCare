@@ -18,8 +18,8 @@ client
   .setProject(PROJECT_ID!)
   .setKey(API_KEY!);
 // console.log("Appwrite Endpoint:", ENDPOINT);
-console.log("Environment Variables:");
-console.log("ENDPOINT:", process.env.NEXT_PUBLIC_ENDPOINT);
+// console.log("Environment Variables:");
+// console.log("ENDPOINT:", process.env.NEXT_PUBLIC_ENDPOINT);
 // console.log("PROJECT_ID:", process.env.PROJECT_ID);
 // console.log("API_KEY:", process.env.API_KEY);
 export const databases = new sdk.Databases(client);
