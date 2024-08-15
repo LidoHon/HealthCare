@@ -63,7 +63,7 @@ export const Doctors = [
   },
   {
     image: "/assets/images/ftsa.jpeg",
-    name: "Fitsum Demeke",
+    name: "HaileMickeal Zewdu",
   },
   {
     image: "/assets/images/asni.jpeg",

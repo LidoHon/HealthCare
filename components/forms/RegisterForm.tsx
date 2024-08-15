@@ -260,7 +260,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             fieldType={FormFieldType.TEXTAREA}
             name="familyMedicalHistory"
             label="family Medical History "
-            placeholder="mother had gunfan, father had diarrhea"
+            placeholder=" something like mother had gunfan, father had migrane.."
           />
           <CustomFormField
             control={form.control}
