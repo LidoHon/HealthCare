@@ -39,7 +39,7 @@ export default function Home({searchParams}:SearchParamProps) {
         </div>
       </section>
       <Image
-        src="/assets/images/home.jpeg"
+        src="/assets/images/onbording.jpeg"
         height={1000}
         width={1000}
         priority
