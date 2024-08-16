@@ -29,7 +29,7 @@ const Sucess = async ({
               alt="patient"
               className="mb-12 h-10 w-fit rounded-full"
             />
-            <h1 className="pt-2 text-3xl font-bold">BunnaCare</h1>
+            <h1 className="pt-2 text-3xl font-bold">EthioCare</h1>
           </div>
         </Link>
         <section className="flex flex-col items-center">
@@ -72,7 +72,7 @@ const Sucess = async ({
             New Appointment
           </Link>
         </Button>
-        <p className="copyright"> © 2024 BunnaCare</p>
+        <p className="copyright"> © 2024 EthioCare</p>
       </div>
     </div>
   );

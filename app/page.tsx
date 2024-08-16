@@ -24,13 +24,13 @@ export default function Home({searchParams}:SearchParamProps) {
               alt="patient"
               className="mb-12 h-10 w-fit rounded-full"
             />
-            <h1 className="pt-2 text-3xl font-bold">BunnaCare</h1>
+            <h1 className="pt-2 text-3xl font-bold">EthioCare</h1>
           </div>
 
           <PatientForm />
           <div className="text-14-regular mt-20 flex justify-between">
             <p className="justify-items-end text-dark-600 xl:text-left">
-              © 2024 BunnaCare
+              © 2024 EthioCare
             </p>
             <Link href="/?admin=true" className=" text-green-500">
               admin

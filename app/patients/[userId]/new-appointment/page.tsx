@@ -22,7 +22,7 @@ export default async function NewAppointment({
               alt="patient"
               className="mb-12 h-10 w-fit rounded-full"
             />
-            <h1 className="pt-2 text-3xl font-bold">BunnaCare</h1>
+            <h1 className="pt-2 text-3xl font-bold">EthioCare</h1>
           </div>
           <AppointmentForm
             type="create"
@@ -30,7 +30,7 @@ export default async function NewAppointment({
             patientId={patient.$id}
           />
           <p className="justify-items-end text-dark-600 xl:text-left">
-            © 2024 BunnaCare
+            © 2024 EthioCare
           </p>
         </div>
       </section>
