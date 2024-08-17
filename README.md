@@ -91,7 +91,7 @@ The Health Care Management System is a web application designed to streamline an
 ```
 
 
-    **Contributing**
+5.**Contributing**
 We welcome contributions to this project! To contribute:
 
 Fork the Repository: Click the "Fork" button at the top right of the repository page on GitHub.
