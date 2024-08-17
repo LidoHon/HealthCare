@@ -70,16 +70,16 @@ The Health Care Management System is a web application designed to streamline an
    ```
 
 
-    PROJECT_ID: Your Appwrite project ID.
-    API_KEY: Your Appwrite API key.
-    DATABASE_ID: The ID of your Appwrite database.
-    PATIENT_COLLECTION_ID: The ID of the collection for patient data.
-    DOCTOR_COLLECTION_ID: The ID of the collection for doctor data.
-    APPOINTMENT_COLLECTION_ID: The ID of the collection for appointment data.
-    NEXT_PUBLIC_BUCKET_ID: The ID of your Appwrite storage bucket.
-    NEXT_PUBLIC_ENDPOINT: The endpoint URL for your Appwrite instance.
-    NEXT_PUBLIC_ADMIN_PASSKEY: Admin passkey for secure access to certain features.
-    SENTRY_AUTH_TOKEN: Token for Sentry error tracking.
+    - PROJECT_ID: Your Appwrite project ID.
+    - API_KEY: Your Appwrite API key.
+    - DATABASE_ID: The ID of your Appwrite database.
+    - PATIENT_COLLECTION_ID: The ID of the collection for patient data.
+    - DOCTOR_COLLECTION_ID: The ID of the collection for doctor data.
+    - APPOINTMENT_COLLECTION_ID: The ID of the collection for appointment data.
+    - NEXT_PUBLIC_BUCKET_ID: The ID of your Appwrite storage bucket.
+    - NEXT_PUBLIC_ENDPOINT: The endpoint URL for your Appwrite instance.
+    - NEXT_PUBLIC_ADMIN_PASSKEY: Admin passkey for secure access to certain features.
+    - SENTRY_AUTH_TOKEN: Token for Sentry error tracking.
    
 
 4.**Run the Development Server**
