@@ -92,7 +92,7 @@ The Health Care Management System is a web application designed to streamline an
 
 
 5.**Contributing**
-We welcome contributions to this project! To contribute:
+I welcome contributions to this project! To contribute:
 
 Fork the Repository: Click the "Fork" button at the top right of the repository page on GitHub.
 
@@ -123,10 +123,9 @@ Submit a Pull Request: Go to the "Pull Requests" tab on GitHub and submit a pull
 
 **Guidelines**
 Code Style: Follow the existing code style and conventions used in the project.
-Testing: Ensure that your changes are covered by tests. Run tests locally before submitting a pull request.
+Testing: Ensure that your changes are covered by tests. Run tests locally before submitting a pull request. 
 Documentation: Update the documentation if your changes affect the setup or usage of the project.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Contact
 For any questions or issues, please reach out to liduhon3@gmail.com.
