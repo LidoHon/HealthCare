@@ -139,7 +139,7 @@ const AppointmentForm = ({
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 flex-1">
         {type === "create" && (
           <section className="mb-12 space-y-4">
-            <h1 className="header">New Appointment 😉</h1>
+            <h1 className="header">New Appointment 🖐🏿</h1>
             <p className="text-dark-700">
               Request a new appointment in 10 seconds
             </p>
