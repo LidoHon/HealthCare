@@ -67,6 +67,7 @@ The Health Care Management System is a web application designed to streamline an
 
     # Sentry for Error Tracking
     SENTRY_AUTH_TOKEN=your-sentry-auth-token
+   ```
 
 
     PROJECT_ID: Your Appwrite project ID.
@@ -79,17 +80,18 @@ The Health Care Management System is a web application designed to streamline an
     NEXT_PUBLIC_ENDPOINT: The endpoint URL for your Appwrite instance.
     NEXT_PUBLIC_ADMIN_PASSKEY: Admin passkey for secure access to certain features.
     SENTRY_AUTH_TOKEN: Token for Sentry error tracking.
-   ```
+   
 
 4.**Run the Development Server**
 
-````bash
+```bash
     npm run dev
     # or
     yarn dev
+```
 
 
-    Contributing
+    **Contributing**
 We welcome contributions to this project! To contribute:
 
 Fork the Repository: Click the "Fork" button at the top right of the repository page on GitHub.
@@ -116,6 +118,7 @@ Push Changes:
 ```bash
 
 git push origin feature/your-feature
+````
 Submit a Pull Request: Go to the "Pull Requests" tab on GitHub and submit a pull request from your branch to the main repository.
 
 **Guidelines**
@@ -127,4 +130,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or issues, please reach out to liduhon3@gmail.com.
-````
+
